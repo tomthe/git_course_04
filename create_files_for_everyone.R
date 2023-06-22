@@ -11,7 +11,6 @@ for (i in 1:30) {
   
   # Create and write content to the file
   writeLines("This is some content.", file_name)
-  writeFiles("test")
   # Print a message indicating the file creation
   cat("Created file:", file_name, "\n")
 }
