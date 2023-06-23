@@ -1,1 +1,2 @@
 This is some content.
+We changed file 2.
